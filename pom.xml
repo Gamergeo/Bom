@@ -8,7 +8,7 @@
 	
 	<properties>
     	<!-- Gamergeo projects -->
-    	<gamlib.version>0.3.2</gamlib.version>
+    	<gamlib.version>0.3.4</gamlib.version>
     	
     	<!-- Dependency version -->
 		<spring-boot.version>3.2.2</spring-boot.version>
